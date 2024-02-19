@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About Asim Munawar"
+title: "About me"
 author_profile: true
 redirect_from: 
   - /about/
