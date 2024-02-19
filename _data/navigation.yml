@@ -1,10 +1,13 @@
 # main links links
 main:
-  - title: "Publications"
-    url: https://scholar.google.co.jp/citations?user=avAL9xYAAAAJ&hl=en
+  - title: "CV"
+    url: /files/AsimMunawar-CV.pdf
 
   - title: "Talks"
     url: /talks/    
-    
-  - title: "CV"
-    url: /files/AsimMunawar-CV.pdf
+
+  - title: "Publications"
+    url: https://scholar.google.co.jp/citations?user=avAL9xYAAAAJ&hl=en
+
+  - title: "Patents"
+    url: https://patents.justia.com/inventor/asim-munawar
