@@ -1,5 +1,5 @@
 ---
-permalink: /ai-talks/
+permalink: /talks/
 title: "AI Talks"
 ---
 
