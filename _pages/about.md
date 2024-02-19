@@ -14,11 +14,12 @@ redirect_from:
 <p>I finished my MSc and PhD from Hokkaido University in Sapporo, Japan. My main research interest is in the creation of next-generation AI by combining symbolic and learning methods.
 I have over 60 publications in journals and peer-reviewed conferences and I hold over 20 patents in AI. Being a thought leader in AI, I serve on the advisory board of multiple organizations and often deliver keynote talks.</p>
 
-<p>My top skills include: Strategic Planning • Project Management • Management • Team Leadership • Artificial Intelligence (AI) • Large Language Models </p>
-
 <p>My career has been characterized by a focus on driving growth and delivering results. I thrive in collaborative, fast-paced environments and I am skilled at building and leading high-performing teams.</p>
+
+My top skills include: Strategic Planning | Project Management | Management | Team Leadership | Artificial Intelligence (AI) | Large Language Models (LLMs)
+
 
 **News**
 
-* News 1
-* News 2
+* 2024-02-26: Organizing [Neuro-Symbolic Learning and Reasoning in the Era of Large Language Models](https://nuclear-workshop.github.io/) workshop at AAAI 2024, Vancouver, Canada
+* 2024-02-10: Launched my talks on AI. See [AI-Talks](https://asimmunawar.github.io/new/ai-talks/) for details.
