@@ -22,4 +22,4 @@ My top skills include: SStrategic Planning • Project Management • Management
 **News**
 
 * 2024-02-26: Organizing [Neuro-Symbolic Learning and Reasoning in the Era of Large Language Models](https://nuclear-workshop.github.io/) workshop at AAAI 2024, Vancouver, Canada
-* 2024-02-10: Launched my talks on AI. See [AI-Talks](https://asimmunawar.github.io/new/ai-talks/) for details.
+* 2024-02-10: Launched my talks on AI. See [AI-Talks](https://asimmunawar.github.io/ai-talks/) for details.
