@@ -1,10 +1,6 @@
 ---
 permalink: /ai-talks/
-title: "Markdown"
-author_profile: true
-redirect_from: 
-  - /ai-talks/
-  - /ai-talks.html
+title: "AI Talks"
 ---
 
 ## AI Talks and [Slides (PPTX)](https://github.com/asimmunawar/ai-talks/docs/presentations) - (English)
