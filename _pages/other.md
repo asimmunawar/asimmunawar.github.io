@@ -1,6 +1,6 @@
 ---
 permalink: /other/
-title: "Other Activities (Selected)"
+title: "Selected Activities"
 ---
 
 ## Organized Workshops (2023 onwards)
