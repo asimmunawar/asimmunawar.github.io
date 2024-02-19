@@ -12,7 +12,7 @@ title                    : "Asim Munawar"
 title_separator          : "-"
 name                     : &name "Asim Munawar"
 description              : &description "Program Director, Manager, Research Lead, Board Member, Keynote Speaker"
-url                      : https://asimmunawar.github.io/new # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://asimmunawar.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "asimmunawar/asimmunawar.github.io"
 

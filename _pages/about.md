@@ -16,7 +16,7 @@ I have over 60 publications in journals and peer-reviewed conferences and I hold
 
 <p>My career has been characterized by a focus on driving growth and delivering results. I thrive in collaborative, fast-paced environments and I am skilled at building and leading high-performing teams.</p>
 
-My top skills include: Strategic Planning | Project Management | Management | Team Leadership | Artificial Intelligence (AI) | Large Language Models (LLMs)
+My top skills include: SStrategic Planning • Project Management • Management • Team Leadership • Artificial Intelligence (AI) • Large Language Models (LLMs)
 
 
 **News**
