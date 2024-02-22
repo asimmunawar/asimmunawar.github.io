@@ -7,7 +7,7 @@ title: "AI Talks"
 If you want me to work on more talks and share the high quality pptx slides with you, please show your support.
 
 - Watch and give a Star to the [AI-Talks repo](https://github.com/asimmunawar/ai-talks)
-- Follow me [X/Twitter](https://twitter.com/asimunawar) • Subscribe [YouTube](https://www.youtube.com/@asimmunawar) • Connect [LinkedIn](https://www.linkedin.com/in/asimmunawar/)
+- Follow me [X/Twitter](https://twitter.com/asimunawar) - Subscribe [YouTube](https://www.youtube.com/@asimmunawar) - Connect [LinkedIn](https://www.linkedin.com/in/asimmunawar/)
 - You are welcome to share any suggestions/comments with me on [LinkedIn](https://www.linkedin.com/in/asimmunawar/)
 
 # Talks and Slides (PPTX) - (English)
