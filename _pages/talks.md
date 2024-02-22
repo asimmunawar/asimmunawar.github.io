@@ -3,7 +3,7 @@ permalink: /talks/
 title: "AI Talks"
 ---
 
-### Show your Support
+## Show your Support
 If you want me to work on more talks and share the high quality pptx slides with you, please show your support.
 
 - Watch and Start the [AI-Talks repo](https://github.com/asimmunawar/ai-talks)
