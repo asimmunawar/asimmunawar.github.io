@@ -2,7 +2,6 @@
 permalink: /talks/
 title: "AI Talks"
 ---
-&nbsp;
 
 ## Show your Support
 If you want me to work on more talks and share the high quality pptx slides with you, please show your support.
