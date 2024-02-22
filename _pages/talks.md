@@ -3,14 +3,14 @@ permalink: /talks/
 title: "AI Talks"
 ---
 
-## Show your Support
+# Show your Support
 If you want me to work on more talks and share the high quality pptx slides with you, please show your support.
 
-- Watch and Start the [AI-Talks repo](https://github.com/asimmunawar/ai-talks)
+- Watch and give a Star to the [AI-Talks repo](https://github.com/asimmunawar/ai-talks)
 - Follow me [X/Twitter](https://twitter.com/asimunawar) • Subscribe [YouTube](https://www.youtube.com/@asimmunawar) • Connect [LinkedIn](https://www.linkedin.com/in/asimmunawar/)
 - You are welcome to share any suggestions/comments with me on [LinkedIn](https://www.linkedin.com/in/asimmunawar/)
 
-## Talks and Slides (PPTX) - (English)
+# Talks and Slides (PPTX) - (English)
 
 | Talk at YouTube    | Date    | Slides  |
 | ------------------ | ------- | ------- |
@@ -20,7 +20,7 @@ If you want me to work on more talks and share the high quality pptx slides with
 You can find all pptx slides at: https://github.com/asimmunawar/ai-talks/docs/presentations
 
 
-## Talks and Slides (PPTX) - (Urdu/Hind)
+# Talks and Slides (PPTX) - (Urdu/Hind)
 
 | Talk at YouTube    | Date    | Slides  |
 | ------------------ | ------- | ------- |
@@ -29,7 +29,7 @@ You can find all pptx slides at: https://github.com/asimmunawar/ai-talks/docs/pr
 You can find all pptx slides at: https://github.com/asimmunawar/ai-talks/docs/presentations
 
 
-## [Jupyter Notebooks](https://github.com/asimmunawar/ai-talks/tree/main/src/jupyter-notebooks)
+# [Jupyter Notebooks](https://github.com/asimmunawar/ai-talks/tree/main/src/jupyter-notebooks)
 
 | Script    | Description |
 | ------ | ------- |
