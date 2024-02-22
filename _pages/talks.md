@@ -3,14 +3,11 @@ permalink: /talks/
 title: "AI Talks"
 ---
 
-## Show your Support
+### Show your Support
 If you want me to work on more talks and share the high quality pptx slides with you, please show your support.
 
 - Watch and Start the [AI-Talks repo](https://github.com/asimmunawar/ai-talks)
-- Connect with me:
-   - Follow me at [X/Twitter](https://twitter.com/asimunawar)
-   - Subscribe at [YouTube](https://www.youtube.com/@asimmunawar)
-   - Connect at [LinkedIn](https://www.linkedin.com/in/asimmunawar/)
+- Follow me [X/Twitter](https://twitter.com/asimunawar) | Subscribe [YouTube](https://www.youtube.com/@asimmunawar) | Connect [LinkedIn](https://www.linkedin.com/in/asimmunawar/)
 - You are welcome to share any suggestions/comments with me on [LinkedIn](https://www.linkedin.com/in/asimmunawar/)
 
 ## Talks and [Slides (PPTX)](https://github.com/asimmunawar/ai-talks/docs/presentations) - (English)
