@@ -20,6 +20,15 @@ If you want me to work on more talks and share the high quality pptx slides with
 You can find all pptx slides at: https://github.com/asimmunawar/ai-talks/docs/presentations
 
 
+## Talks and Slides (PPTX) - (Urdu/Hind)
+
+| Talk at YouTube    | Date    | Slides  |
+| ------------------ | ------- | ------- |
+
+
+You can find all pptx slides at: https://github.com/asimmunawar/ai-talks/docs/presentations
+
+
 ## [Jupyter Notebooks](https://github.com/asimmunawar/ai-talks/tree/main/src/jupyter-notebooks)
 
 | Script    | Description |
