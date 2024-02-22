@@ -29,7 +29,7 @@ You can find all pptx slides at: https://github.com/asimmunawar/ai-talks/docs/pr
 You can find all pptx slides at: https://github.com/asimmunawar/ai-talks/docs/presentations
 
 
-# [Jupyter Notebooks](https://github.com/asimmunawar/ai-talks/tree/main/src/jupyter-notebooks)
+# Jupyter Notebooks
 
 | Script    | Description |
 | ------ | ------- |
