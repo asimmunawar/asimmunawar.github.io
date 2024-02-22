@@ -11,7 +11,6 @@ If you want me to work on more talks and share the high quality pptx slides with
 - You are welcome to share any suggestions/comments with me on [LinkedIn](https://www.linkedin.com/in/asimmunawar/)
 
 &nbsp;
-&nbsp;
 
 ## Talks and Slides (PPTX) - (English)
 
@@ -23,7 +22,6 @@ If you want me to work on more talks and share the high quality pptx slides with
 You can find all pptx slides at: https://github.com/asimmunawar/ai-talks/docs/presentations
 
 &nbsp;
-&nbsp;
 
 ## Talks and Slides (PPTX) - (Urdu/Hindi)
 
@@ -31,9 +29,9 @@ You can find all pptx slides at: https://github.com/asimmunawar/ai-talks/docs/pr
 | ------------------ | ------- | ------- |
 | Talk at YouTube    | Date    | Slides  |
 
-
 You can find all pptx slides at: https://github.com/asimmunawar/ai-talks/docs/presentations
 
+&nbsp;
 
 ## Jupyter Notebooks
 
@@ -43,6 +41,8 @@ You can find all pptx slides at: https://github.com/asimmunawar/ai-talks/docs/pr
 | [activation-functions.ipynb](https://github.com/asimmunawar/ai-talks/blob/main/src/jupyter-notebooks/activation-functions.ipynb)   | Explains Activation functions commonly used in Deep Learning.   |
 | [dot-product.ipynb](https://github.com/asimmunawar/ai-talks/blob/main/src/jupyter-notebooks/dot-product.ipynb)   | Shows how dot product works.   |
 | [bahdanau-attention.ipynb](https://github.com/asimmunawar/ai-talks/blob/main/src/jupyter-notebooks/bahdanau-attention.ipynb)/[luong-attention.ipynb](https://github.com/asimmunawar/ai-talks/blob/main/src/jupyter-notebooks/luong-attention.ipynb) | Shows the working of different kinds of attentions |
+
+&nbsp;
 
 ## License
 I am releasing all the content under this project (repo:[https://github.com/asimmunawar/ai-talks](https://github.com/asimmunawar/ai-talks)), under the MIT License, which permits anyone to freely use, modify, distribute, and sublicense the software. This license grants individuals and organizations the flexibility to incorporate the content into their own projects, modify it as needed, and distribute it with minimal restrictions. Users are only required to include the original copyright and license notice in any substantial portion of the software they use or distribute. The MIT License is chosen for its permissive nature, allowing for widespread collaboration and utilization of the content within the open-source community.
