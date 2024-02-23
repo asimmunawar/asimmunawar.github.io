@@ -19,7 +19,7 @@ If you want me to work on more talks and share the high quality pptx slides with
 | What is Generative AI and LLMs? [English](https://youtu.be/AneKPA_0b0s?si=mnalVtWn0xMS_PEp) - [Urdu/Hindi](https://youtu.be/yS6HqwG324I)  | Jan 2024   | [PPTX](https://github.com/asimmunawar/ai-talks/blob/main/docs/presentations/WhatIsGenAI202401.pptx) |
 | Can Large Language Models (LLMs) Reason? [English](https://youtu.be/RXG85xI23-o?si=4BTeNuh4iRQm9Asy) - [Urdu/Hindi](https://youtu.be/UUXIqo87r-Y) | Feb 2024 | [PPTX](https://github.com/asimmunawar/ai-talks/blob/main/docs/presentations/ReasoningWithLLMs202402.pptx) |
 
-You can find all PowerPoint (pptx) slides at: https://github.com/asimmunawar/ai-talks/docs/presentations
+Access all [PowerPoint (pptx) slides](https://github.com/asimmunawar/ai-talks/docs/presentations).
 
 &nbsp;
 
@@ -35,6 +35,4 @@ You can find all PowerPoint (pptx) slides at: https://github.com/asimmunawar/ai-
 &nbsp;
 
 ## License
-I am releasing all the content under this project (repo:[https://github.com/asimmunawar/ai-talks](https://github.com/asimmunawar/ai-talks)), under the MIT License, which permits anyone to freely use, modify, distribute, and sublicense the software. This license grants individuals and organizations the flexibility to incorporate the content into their own projects, modify it as needed, and distribute it with minimal restrictions. Users are only required to include the original copyright and license notice in any substantial portion of the software they use or distribute. The MIT License is chosen for its permissive nature, allowing for widespread collaboration and utilization of the content within the open-source community.
-
-For details, please see the full license statement at [LICENSE](https://github.com/asimmunawar/ai-talks/blob/main/License).
+I am releasing all the talks, slides, and other resources at [AI-talks repo](https://github.com/asimmunawar/ai-talks) under MIT license. See [license](https://github.com/asimmunawar/ai-talks/blob/main/License) for details.
