@@ -17,9 +17,9 @@ If you want me to work on more talks and share the high quality pptx slides with
 | Talk at YouTube    | Date    | Slides  |
 | ------------------ | ------- | ------- |
 | What is Generative AI and LLMs? [English](https://youtu.be/AneKPA_0b0s?si=mnalVtWn0xMS_PEp) - [Urdu/Hindi](https://youtu.be/yS6HqwG324I)  | Jan 2024   | [PPTX](https://github.com/asimmunawar/ai-talks/blob/main/docs/presentations/WhatIsGenAI202401.pptx) |
-| [Can Large Language Models (LLMs) Reason?](https://youtu.be/RXG85xI23-o?si=4BTeNuh4iRQm9Asy) | Feb 2024 | [PPTX](https://github.com/asimmunawar/ai-talks/blob/main/docs/presentations/ReasoningWithLLMs202402.pptx) |
+| Can Large Language Models (LLMs) Reason? [English](https://youtu.be/RXG85xI23-o?si=4BTeNuh4iRQm9Asy) - [Urdu/Hindi](https://youtu.be/UUXIqo87r-Y) | Feb 2024 | [PPTX](https://github.com/asimmunawar/ai-talks/blob/main/docs/presentations/ReasoningWithLLMs202402.pptx) |
 
-You can find all pptx slides at: https://github.com/asimmunawar/ai-talks/docs/presentations
+You can find all PowerPoint (pptx) slides at: https://github.com/asimmunawar/ai-talks/docs/presentations
 
 &nbsp;
 
