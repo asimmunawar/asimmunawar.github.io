@@ -5,7 +5,7 @@ title: "AI Talks"
 
 ## Show your Support
 
-If you find this project helpful, consider giving [ai-talks repo](https://github.com/asimmunawar/ai-talks) a ⭐️ and Follow me on [LinkedIn](https://www.linkedin.com/in/asimmunawar/) | [X](https://x.com/asimunawar) | [YouTube](https://www.youtube.com/@asimmunawar) for the latest updates.
+If you find this project helpful, consider giving [ai-talks repo](https://github.com/asimmunawar/ai-talks) a ⭐️ and Follow me on [LinkedIn](https://www.linkedin.com/in/asimmunawar/) / [X](https://x.com/asimunawar) / [YouTube](https://www.youtube.com/@asimmunawar) for the latest updates.
 
 Your support keeps the momentum going! 🌟
 
