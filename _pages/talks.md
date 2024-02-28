@@ -19,11 +19,6 @@ Your support keeps the momentum going! 🌟
 | Can Large Language Models (LLMs) Reason? [English](https://youtu.be/RXG85xI23-o?si=4BTeNuh4iRQm9Asy) - [Urdu/Hindi](https://youtu.be/UUXIqo87r-Y) | Feb 2024 | [PPTX](https://github.com/asimmunawar/ai-talks/blob/main/docs/presentations/ReasoningWithLLMs202402.pptx) |
 | A Survey of Reasoning with Foundation Models ([Arxiv](https://arxiv.org/abs/2312.11562)) [English](https://youtu.be/JxSt8jDbvHo?si=tnAdg8e-pUvMckl7) | Feb 2024 | [PPTX](https://github.com/asimmunawar/ai-talks/blob/main/docs/presentations/003-SurveyOfReasoning202402.pptx) |
 
-
-
-
-
-
 Access all [PowerPoint (pptx) slides](https://github.com/asimmunawar/ai-talks/docs/presentations).
 
 &nbsp;
