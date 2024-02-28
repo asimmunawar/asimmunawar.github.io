@@ -1,6 +1,5 @@
 ---
 permalink: /other/
-permalink: /more/
 title: "Selected Activities"
 ---
 
