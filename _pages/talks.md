@@ -11,7 +11,7 @@ Your support keeps the momentum going! 🌟
 
 &nbsp;
 
-## Talks and Powerpoint Slides - (English and Urdu/Hindi)
+## Talks and Powerpoint Slides (PPTX) - (English and Urdu/Hindi)
 
 | Talk at YouTube    | Date    | Slides  |
 | ------------------ | ------- | ------- |
