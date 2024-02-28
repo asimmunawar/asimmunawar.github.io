@@ -25,11 +25,11 @@ title: "Selected Activities"
 
 ## Invited Talks (2023 onwards)
 
-- [TrustML Workshop](https://trustml.ubc.ca/events/trustml-workshop-ubc-february-2024) @ UBC, February 2024 [LinkedIn Post](https://www.linkedin.com/feed/update/urn:li:activity:7168458996033470464/)
-- CSR Club University Cadi Ayyad, Nov 2023 [LinkedIn Post](https://www.linkedin.com/posts/csr-club-fps_aiinsights-languagemodels-techtalks-activity-7132790432022843392-rUPk?utm_source=share&utm_medium=member_desktop)
-- [Dallas AI Meetup](https://www.meetup.com/dal-ai/) (A society of 5k+ AI professionals), Nov 2023 [LinkedIn Post](https://www.linkedin.com/feed/update/urn:li:activity:7119812126839291904?utm_source=share&utm_medium=member_desktop)
-- 4th Pakistan AI Summit, 2023 [LinkedIn Post](https://www.linkedin.com/feed/update/urn:li:activity:7040555977091223552?utm_source=share&utm_medium=member_desktop)
-- AI Techverse 2023/IEEE ICAI 2023, Feb 2023 [LinkedIn Post](https://www.linkedin.com/feed/update/urn:li:activity:7021013459102248960/)
+- [TrustML Workshop](https://trustml.ubc.ca/events/trustml-workshop-ubc-february-2024) @ UBC, February 2024 - [LinkedIn Post](https://www.linkedin.com/feed/update/urn:li:activity:7168458996033470464/)
+- CSR Club University Cadi Ayyad, Nov 2023 - [LinkedIn Post](https://www.linkedin.com/posts/csr-club-fps_aiinsights-languagemodels-techtalks-activity-7132790432022843392-rUPk?utm_source=share&utm_medium=member_desktop)
+- [Dallas AI Meetup](https://www.meetup.com/dal-ai/) (A society of 5k+ AI professionals), Nov 2023 - [LinkedIn Post](https://www.linkedin.com/feed/update/urn:li:activity:7119812126839291904?utm_source=share&utm_medium=member_desktop)
+- 4th Pakistan AI Summit, 2023 - [LinkedIn Post](https://www.linkedin.com/feed/update/urn:li:activity:7040555977091223552?utm_source=share&utm_medium=member_desktop)
+- AI Techverse 2023/IEEE ICAI 2023, Feb 2023 - [LinkedIn Post](https://www.linkedin.com/feed/update/urn:li:activity:7021013459102248960/)
 
 ## Others (Recent)
 
