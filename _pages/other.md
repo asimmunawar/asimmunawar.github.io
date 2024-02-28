@@ -33,5 +33,5 @@ title: "Selected Activities"
 
 ## Others (Recent)
 
-- Interview by Don Monroe on the topic of “Neuro-Symbolic AI”, Communications of the ACM, October 2022
-- “How a shopping mall trip inspired me to work in neuro-symbolic AI”, Careers in Computing, ACM Communications, May 2022
+- Interview by Don Monroe on the topic of “Neuro-Symbolic AI”, Communications of the ACM, October 2022 - [Link](https://cacm.acm.org/magazines/2022/10/264844-neurosymbolic-ai/abstract)
+- “How a shopping mall trip inspired me to work in neuro-symbolic AI”, Careers in Computing, ACM Communications, May 2022 - [Link](https://cacm.acm.org/magazines/2022/5/260361-how-a-shopping-mall-trip-inspired-me-to-work-in-neuro-symbolic-ai/abstract)
