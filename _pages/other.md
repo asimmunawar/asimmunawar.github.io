@@ -5,7 +5,7 @@ title: "Selected Activities"
 
 ## Organized Workshops (2023 onwards)
 
-- Neuro-Symbolic Learning and Reasoning in the Era of Large Language Models (NucLear) workshop at AAAI 2024, Vancouver, Canada, Feb 2024 
+- Neuro-Symbolic Learning and Reasoning in the Era of Large Language Models (**NucLeaR**) workshop at AAAI 2024, Vancouver, Canada, Feb 2024 
    - [Event website](https://nuclear-workshop.github.io/)
    - <span style="color: red;">[PDF slides](https://github.com/nuclear-workshop/nuclear-workshop.github.io/tree/master/assets/2024_aaai_nuclear_invited_talk_slides) are now available</span>
    - <span style="color: red;">Recordings will be available soon on my [YouTube channel](https://www.youtube.com/@asimmunawar)</span>
