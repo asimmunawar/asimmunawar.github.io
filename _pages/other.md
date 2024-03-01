@@ -5,7 +5,7 @@ title: "Selected Activities"
 
 ## Organized Workshops (2023 onwards)
 
-- Neuro-Symbolic Learning and Reasoning in the Era of Large Language Models (**NucLeaR**) workshop at [AAAI 2024](https://aaai.org/aaai-conference/), Vancouver, Canada, Feb 2024 
+### Neuro-Symbolic Learning and Reasoning in the Era of Large Language Models (**NucLeaR**) workshop at [AAAI 2024](https://aaai.org/aaai-conference/), Vancouver, Canada, Feb 2024 
    - [Event website](https://nuclear-workshop.github.io/)
    - <span style="color: red;">[PDF slides](https://github.com/nuclear-workshop/nuclear-workshop.github.io/tree/master/assets/2024_aaai_nuclear_invited_talk_slides) are now available</span>
    - <span style="color: red;">Recordings will be available soon on my [YouTube channel](https://www.youtube.com/@asimmunawar)</span>
@@ -13,16 +13,15 @@ title: "Selected Activities"
 <blockquote class="twitter-tweet" data-media-max-width="560"><p lang="en" dir="ltr">Talk by <a href="https://twitter.com/GaryMarcus?ref_src=twsrc%5Etfw">@GaryMarcus</a> on the topic &quot;No AGI without Neurosymbolic AI&quot;. Given at NucLeaR Workshop - AAAI 2024. <a href="https://t.co/8WivPsGKV7">https://t.co/8WivPsGKV7</a><br><br>The last slide of his talk serves as a reality check regarding the current status of AI.<br><br>Enjoy !!!!<a href="https://twitter.com/hashtag/NeurosymbolicAI?src=hash&amp;ref_src=twsrc%5Etfw">#NeurosymbolicAI</a> <a href="https://twitter.com/hashtag/AAAI?src=hash&amp;ref_src=twsrc%5Etfw">#AAAI</a> <a href="https://twitter.com/hashtag/NucLeaRWorkshop?src=hash&amp;ref_src=twsrc%5Etfw">#NucLeaRWorkshop</a> <a href="https://t.co/hCKJvcwbCe">pic.twitter.com/hCKJvcwbCe</a></p>&mdash; Asim Munawar (@asimunawar) <a href="https://twitter.com/asimunawar/status/1763355051538448786?ref_src=twsrc%5Etfw">March 1, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
-
-- Knowledge Based Compositional Generalization (KBCG) workshop at [IJCAI 2023](https://ijcai-23.org/), Macao, Aug 2023
+### Knowledge Based Compositional Generalization (KBCG) workshop at [IJCAI 2023](https://ijcai-23.org/), Macao, Aug 2023
    - [Event website](https://knowledgeai.github.io/)
 
-- Neuro-Symbolic AI Summer School 2023, Aug 2023 (virtual event)
+### Neuro-Symbolic AI Summer School 2023, Aug 2023 (virtual event)
    - [Event website](https://neurosymbolic.github.io/nsss2023/index.html)
    - Recordings available on [my X/twitter post](https://twitter.com/asimunawar/status/1696850589299229130)
    - 4500+ Registrations
 
-- Neuro-Symbolic AI Winter Workshop 2023, 23-27 Jan 2023 (virtual event)
+### Neuro-Symbolic AI Winter Workshop 2023, 23-27 Jan 2023 (virtual event)
    - [Event website](https://ibm.github.io/neuro-symbolic-ai/events/ns-workshop2023/)
    - 6k+ Registrations
 
