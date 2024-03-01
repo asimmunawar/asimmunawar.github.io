@@ -10,6 +10,10 @@ title: "Selected Activities"
    - <span style="color: red;">[PDF slides](https://github.com/nuclear-workshop/nuclear-workshop.github.io/tree/master/assets/2024_aaai_nuclear_invited_talk_slides) are now available</span>
    - <span style="color: red;">Recordings will be available soon on my [YouTube channel](https://www.youtube.com/@asimmunawar)</span>
 
+<blockquote class="twitter-tweet" data-media-max-width="560"><p lang="en" dir="ltr">Talk by <a href="https://twitter.com/GaryMarcus?ref_src=twsrc%5Etfw">@GaryMarcus</a> on the topic &quot;No AGI without Neurosymbolic AI&quot;. Given at NucLeaR Workshop - AAAI 2024. <a href="https://t.co/8WivPsGKV7">https://t.co/8WivPsGKV7</a><br><br>The last slide of his talk serves as a reality check regarding the current status of AI.<br><br>Enjoy !!!!<a href="https://twitter.com/hashtag/NeurosymbolicAI?src=hash&amp;ref_src=twsrc%5Etfw">#NeurosymbolicAI</a> <a href="https://twitter.com/hashtag/AAAI?src=hash&amp;ref_src=twsrc%5Etfw">#AAAI</a> <a href="https://twitter.com/hashtag/NucLeaRWorkshop?src=hash&amp;ref_src=twsrc%5Etfw">#NucLeaRWorkshop</a> <a href="https://t.co/hCKJvcwbCe">pic.twitter.com/hCKJvcwbCe</a></p>&mdash; Asim Munawar (@asimunawar) <a href="https://twitter.com/asimunawar/status/1763355051538448786?ref_src=twsrc%5Etfw">March 1, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
+
 - Knowledge Based Compositional Generalization (KBCG) workshop at [IJCAI 2023](https://ijcai-23.org/), Macao, Aug 2023
    - [Event website](https://knowledgeai.github.io/)
 
