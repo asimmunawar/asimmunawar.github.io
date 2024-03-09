@@ -8,7 +8,7 @@ title: "Selected Activities"
 ### Neuro-Symbolic Learning and Reasoning in the Era of Large Language Models (**NucLeaR**) workshop at [AAAI 2024](https://aaai.org/aaai-conference/), Vancouver, Canada, Feb 2024 
    - [Event website](https://nuclear-workshop.github.io/)
    - <span style="color: red;">[PDF slides](https://github.com/nuclear-workshop/nuclear-workshop.github.io/tree/master/assets/2024_aaai_nuclear_invited_talk_slides) are now available</span>
-   - <span style="color: red;">Recordings will be available soon on my [YouTube channel](https://www.youtube.com/@asimmunawar)</span>
+   - <span style="color: red;">Recordings are available on my [YouTube channel](https://www.youtube.com/watch?v=x8hUBU8qAKQ&list=PLt-aI0fLbqH-W-YIsf5AQ07G616lQzNpC)</span>
 
 ### Knowledge Based Compositional Generalization (KBCG) workshop at [IJCAI 2023](https://ijcai-23.org/), Macao, Aug 2023
    - [Event website](https://knowledgeai.github.io/)
