@@ -4,7 +4,7 @@ main:
     url: /files/AsimMunawar-CV.pdf
 
   - title: "Talks"
-    url: /talks/
+    url: https://github.com/asimmunawar/ai-talks
 
   - title: "Publications"
     url: https://scholar.google.co.jp/citations?user=avAL9xYAAAAJ&hl=en
