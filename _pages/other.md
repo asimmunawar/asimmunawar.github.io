@@ -5,6 +5,14 @@ title: "Selected Activities"
 
 ## Organized Workshops (2023 onwards)
 
+### Neuro-Symbolic AI Summer School 2024, Sep 2024 (virtual event)
+   - [Event website](https://neurosymbolic.github.io/nsss2024/index.html)
+   - Register at event website
+
+### The 1st International Workshop on AI Governance (AIGOV) workshop at [IJCAI 2024](https://aigovernance.github.io/), Jeju Island, South Korea, August 2024 
+   - [Event website](https://aigovernance.github.io/)
+   - <span style="color: red;">Recordings are available on my [YouTube channel](https://www.youtube.com/watch?v=38QwFDEfrEI&list=PLt-aI0fLbqH99t0PNzRnx-ccjIoKagaVk)</span>
+
 ### Neuro-Symbolic Learning and Reasoning in the Era of Large Language Models (**NucLeaR**) workshop at [AAAI 2024](https://aaai.org/aaai-conference/), Vancouver, Canada, Feb 2024 
    - [Event website](https://nuclear-workshop.github.io/)
    - <span style="color: red;">[PDF slides](https://github.com/nuclear-workshop/nuclear-workshop.github.io/tree/master/assets/2024_aaai_nuclear_invited_talk_slides) are now available</span>
