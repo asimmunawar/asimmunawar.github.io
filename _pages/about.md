@@ -49,7 +49,7 @@ redirect_from:
 
 <h2>News</h2>
 <ul>
-    <li>2024-09-27: Keynote titled “Foundation models for Robotics”, ICRA@40, Johannesburg, South Africa, Sept 2024</li>
+    <li>2024-09-27: Keynote titled “Foundation models for Robotics”, <a href="https://icra40.ieee.org/icra-2024/icra40-africa/">ICRA@40</a>, Johannesburg, South Africa, Sept 2024</li>
     <li>2024-02-26: Organizing <a href="https://nuclear-workshop.github.io/">Neuro-Symbolic Learning and Reasoning in the Era of Large Language Models</a> workshop at AAAI 2024, Vancouver, Canada</li>
     <li>2024-02-10: Launched my <a href="https://asimmunawar.github.io/talks/">talks on AI</a></li>
 </ul>
