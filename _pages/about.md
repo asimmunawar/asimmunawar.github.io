@@ -15,22 +15,36 @@ redirect_from:
 
 Looking ahead, I am eager to lead cutting-edge projects, develop innovative AI solutions, and collaborate with forward-thinking organizations to shape the future of technology. I remain committed to fostering growth and achieving meaningful results that push the boundaries of what AI can accomplish.
 
-## My top skills include: 
-### Management Skills
 
-- Program/Project management
-- AI strategy
-- Leadership | Executive decision-making | Talent development | Client engagement | Thought leadership | Change management | R&D leadership | Keynote talks | Board/advisory roles | Agile methodologies | Strategic Planning
+<h2>My top skills include:</h2>
 
+<h3>Management Skills</h3>
+<ul>
+    <li>Program/Project management</li>
+    <li>AI strategy</li>
+    <li>Leadership</li>
+    <li>Executive decision-making</li>
+    <li>Talent development</li>
+    <li>Client engagement</li>
+    <li>Thought leadership</li>
+    <li>Change management</li>
+    <li>R&D leadership</li>
+    <li>Keynote talks</li>
+    <li>Board/advisory roles</li>
+    <li>Agile methodologies</li>
+    <li>Strategic Planning</li>
+</ul>
 
-### Technical Hands-on Skills
-AI/ML | AI ethics and responsible AI practices | Large language models (LLMs) | Advanced Synthetic Data Generation | AI evaluation | API Augmented LLMs | Neuro-symbolic AI | NLP | Computer vision | Automation
-
-
-Strategic Planning • Project Management • Management • Team Leadership • Artificial Intelligence (AI) • Large Language Models (LLMs)
+<h3>Technical Hands-on Skills</h3>
+<p>
+    AI/ML | AI ethics and responsible AI practices | Large language models (LLMs) | 
+    Advanced Synthetic Data Generation | AI evaluation | API Augmented LLMs | 
+    Neuro-symbolic AI | NLP | Computer vision | Automation
+</p>
 
 
 **News**
 
+* 2024-09-27: Keynote titled “Foundation models for Robotics”, ICRA@40, Johannesburg, South Africa, Sept 2024
 * 2024-02-26: Organizing [Neuro-Symbolic Learning and Reasoning in the Era of Large Language Models](https://nuclear-workshop.github.io/) workshop at AAAI 2024, Vancouver, Canada
 * 2024-02-10: Launched my [talks on AI](https://asimmunawar.github.io/talks/).
