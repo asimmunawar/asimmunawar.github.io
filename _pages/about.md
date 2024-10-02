@@ -16,9 +16,7 @@ redirect_from:
 Looking ahead, I am eager to lead cutting-edge projects, develop innovative AI solutions, and collaborate with forward-thinking organizations to shape the future of technology. I remain committed to fostering growth and achieving meaningful results that push the boundaries of what AI can accomplish.
 
 
-<h2>My top skills include:</h2>
-
-<h3>Management Skills</h3>
+<h3>My Management Skills</h3>
 <ul>
     <li>Program/Project management</li>
     <li>AI strategy</li>
@@ -35,12 +33,19 @@ Looking ahead, I am eager to lead cutting-edge projects, develop innovative AI s
     <li>Strategic Planning</li>
 </ul>
 
-<h3>Technical Hands-on Skills</h3>
-<p>
-    AI/ML | AI ethics and responsible AI practices | Large language models (LLMs) | 
-    Advanced Synthetic Data Generation | AI evaluation | API Augmented LLMs | 
-    Neuro-symbolic AI | NLP | Computer vision | Automation
-</p>
+<h3>My Technical Hands-on Skills</h3>
+<ul>
+    <li>AI/ML</li>
+    <li>AI ethics and responsible AI practices</li>
+    <li>Large language models (LLMs)</li>
+    <li>Advanced Synthetic Data Generation</li>
+    <li>AI evaluation</li>
+    <li>API Augmented LLMs</li>
+    <li>Neuro-symbolic AI</li>
+    <li>NLP</li>
+    <li>Computer vision</li>
+    <li>Automation</li>
+</ul>
 
 
 **News**
