@@ -13,7 +13,7 @@ redirect_from:
 
 <p>I also serve as Tech Advisory Board member at <a href="https://www.packtpub.com/">Packt in India</a> (remote work), Scientific and Industrial Advisory Board member at the <a href="https://ncai.pk/">National Center of Artificial Intelligence-NCAI Pakistan</a>, and Executive advisory board member at <a href="https://centaur.ai/">Centaur AI in New York</a>.</p>
 
-Looking ahead, I am eager to lead cutting-edge projects, develop innovative AI solutions, and collaborate with forward-thinking organizations to shape the future of technology. I remain committed to fostering growth and achieving meaningful results that push the boundaries of what AI can accomplish.
+<p>Looking ahead, I am eager to lead cutting-edge projects, develop innovative AI solutions, and collaborate with forward-thinking organizations to shape the future of technology. I remain committed to fostering growth and achieving meaningful results that push the boundaries of what AI can accomplish.</p>
 
 
 <h3>My Management Skills</h3>
@@ -47,9 +47,9 @@ Looking ahead, I am eager to lead cutting-edge projects, develop innovative AI s
     <li>Automation</li>
 </ul>
 
-
-**News**
-
-* 2024-09-27: Keynote titled “Foundation models for Robotics”, ICRA@40, Johannesburg, South Africa, Sept 2024
-* 2024-02-26: Organizing [Neuro-Symbolic Learning and Reasoning in the Era of Large Language Models](https://nuclear-workshop.github.io/) workshop at AAAI 2024, Vancouver, Canada
-* 2024-02-10: Launched my [talks on AI](https://asimmunawar.github.io/talks/).
+<h2>News</h2>
+<ul>
+    <li>2024-09-27: Keynote titled “Foundation models for Robotics”, ICRA@40, Johannesburg, South Africa, Sept 2024</li>
+    <li>2024-02-26: Organizing <a href="https://nuclear-workshop.github.io/">Neuro-Symbolic Learning and Reasoning in the Era of Large Language Models</a> workshop at AAAI 2024, Vancouver, Canada</li>
+    <li>2024-02-10: Launched my <a href="https://asimmunawar.github.io/talks/">talks on AI</a></li>
+</ul>
