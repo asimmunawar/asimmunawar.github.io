@@ -33,11 +33,19 @@ title: "Selected Activities"
 
 ## Invited Talks (2023 onwards)
 
-- [TrustML Workshop](https://trustml.ubc.ca/events/trustml-workshop-ubc-february-2024) @ UBC, February 2024 - [LinkedIn Post](https://www.linkedin.com/feed/update/urn:li:activity:7168458996033470464/)
-- CSR Club University Cadi Ayyad, Nov 2023 - [LinkedIn Post](https://www.linkedin.com/posts/csr-club-fps_aiinsights-languagemodels-techtalks-activity-7132790432022843392-rUPk?utm_source=share&utm_medium=member_desktop)
-- [Dallas AI Meetup](https://www.meetup.com/dal-ai/) (A society of 5k+ AI professionals), Nov 2023 - [LinkedIn Post](https://www.linkedin.com/feed/update/urn:li:activity:7119812126839291904?utm_source=share&utm_medium=member_desktop)
-- 4th Pakistan AI Summit, 2023 - [LinkedIn Post](https://www.linkedin.com/feed/update/urn:li:activity:7040555977091223552?utm_source=share&utm_medium=member_desktop)
-- AI Techverse 2023/IEEE ICAI 2023, Feb 2023 - [LinkedIn Post](https://www.linkedin.com/feed/update/urn:li:activity:7021013459102248960/)
+- Keynote talk at [ACM ACMSE 2025](https://acmse.net/2025/) at Southeast Missouri State University, April 2025 (planned)
+- “Generative AI and its importance in Applied AI”, [Applied AI Research Center (AARC)](https://polytechnic.purdue.edu/aarc), [Purdue University](https://www.purdue.edu/), Nov 2024 (planned)
+- “How to improve LLM performance of reasoning and planning?”, Mississippi State University (MSU) [AI Club](https://www.cse.msstate.edu/studentorg/) (virtual), Oct 2024
+- Keynote talk: “Foundation models for Robotics”, [ICRA@40 Africa](https://icra40.ieee.org/icra-2024/icra40-africa/), Johannesburg, South Africa, Sept 2024
+- “How interpretability helps in AI governance”, [AI GOV workshop](https://aigovernance.github.io/) at [IJCAI 2024](https://ijcai24.org/), Jeju, South Korea, Aug 2024
+- “LLM explainability for improving Trust”, [TrustML Workshop](https://trustml.ubc.ca/events/trustml-workshop-ubc-february-2024) @ UBC, Vancouver, Canada Feb 2024 - [LinkedIn Post](https://www.linkedin.com/feed/update/urn:li:activity:7168458996033470464/)
+- “Reasoning with Large Language Models”, CSR Club University Cadi Ayyad, Morocco (virtual), Nov 2023 - [LinkedIn Post](https://www.linkedin.com/posts/csr-club-fps_aiinsights-languagemodels-techtalks-activity-7132790432022843392-rUPk?utm_source=share&utm_medium=member_desktop)
+- [Dallas AI Meetup](https://www.meetup.com/dal-ai/) (A society of 6k+ AI professionals), Nov 2023 - [LinkedIn Post](https://www.linkedin.com/feed/update/urn:li:activity:7119812126839291904?utm_source=share&utm_medium=member_desktop)
+- Keynote talk: “Generative AI and Large Language Models (LLMs)”, 4th Pakistan AI Summit, March 2023 - [LinkedIn Post](https://www.linkedin.com/feed/update/urn:li:activity:7040555977091223552?utm_source=share&utm_medium=member_desktop)
+- Keynote talk: “Neuro-Symbolic AI for LLMs”, AI Techverse 2023 @ IEEE ICAI 2023, Islamabad, Pakistan, Feb 2023 - [LinkedIn Post](https://www.linkedin.com/feed/update/urn:li:activity:7021013459102248960/)
+- Keynote talk: “Advancements in Neuro-Symbolic AI”, IEEE ICAI 2022, Islamabad, Pakistan, April 2022
+- Keynote talk: “Introduction to Neuro-Symbolic AI”, IEEE ICAI 2021, Islamabad, Pakistan, April 2021
+- Science Slam on “Safe Reinforcement Learning” (presented in Japanese language), IBM Think Japan, Tokyo Japan, June 2018
 
 ## Others (Recent)
 
