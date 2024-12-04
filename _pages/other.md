@@ -34,7 +34,9 @@ title: "Selected Activities"
 ## Invited Talks (2023 onwards)
 
 - Keynote talk at [ACM ACMSE 2025](https://acmse.net/2025/) at Southeast Missouri State University, April 2025 (planned)
-- “Generative AI and its importance in Applied AI”, [Applied AI Research Center (AARC)](https://polytechnic.purdue.edu/aarc), [Purdue University](https://www.purdue.edu/), Nov 2024 (planned)
+- “Reasoning with LLMs”, AIR University, Islamabad, Pakistan, Dec 2024 - Planned
+- “Language Models (LLMs) based Reasoning: Opportunities & Pitfalls”, [LAVA ACCV Workshop](https://lava-workshop.github.io/), Hanoi, Vietnam, Dec 2024 (virtual) - Planned
+- “Language Models (LLMs) based Reasoning: Opportunities & Pitfalls”, [Applied AI Research Center (AARC)](https://polytechnic.purdue.edu/aarc), [Purdue University](https://www.purdue.edu/), Nov 2024, [LinkedIn post](https://www.linkedin.com/posts/purdue-aarc_purdue-aarc-seminar-asim-munawar-ibm-watson-activity-7269400859191427072-bK0X?utm_source=share&utm_medium=member_desktop)
 - “How to improve LLM performance of reasoning and planning?”, Mississippi State University (MSU) [AI Club](https://www.cse.msstate.edu/studentorg/) (virtual), Oct 2024
 - Keynote talk: “Foundation models for Robotics”, [ICRA@40 Africa](https://icra40.ieee.org/icra-2024/icra40-africa/), Johannesburg, South Africa, Sept 2024
 - “How interpretability helps in AI governance”, [AI GOV workshop](https://aigovernance.github.io/) at [IJCAI 2024](https://ijcai24.org/), Jeju, South Korea, Aug 2024
