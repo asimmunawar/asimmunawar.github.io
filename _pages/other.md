@@ -1,9 +1,9 @@
 ---
 permalink: /other/
-title: "Selected Activities"
+title: "Selected Activities (2023 onwards)"
 ---
 
-# 🧠 Organized Workshops (2023–Present)
+# 🧠 Organized Workshops
 
 ## ✅ Neuro-Symbolic AI Summer School 2024 (Sep 2024, Virtual)
 - [Event website](https://neurosymbolic.github.io/nsss2024/index.html)
@@ -34,8 +34,9 @@ title: "Selected Activities"
 
 # 🎤 Invited Talks (2023–Present)
 
-- 🗝️ **Keynote** @ [ACMSE 2025](https://acmse.net/2025/), Southeast Missouri State University (Apr 2025) *(Planned)*
-- “Reasoning with LLMs”, AIR University, Pakistan (Dec 2024, Planned)
+- 🗝️ **Keynote** @ [ICSE 2025 - NSE](https://conf.researchr.org/home/icse-2025/nse-2025#program), Ottawa, Canada (May 2025)
+- 🗝️ **Keynote** @ [ACMSE 2025](https://acmse.net/2025/), Southeast Missouri State University (Apr 2025)
+- “Reasoning with LLMs”, AIR University, Pakistan (Dec 2024)
 - “LLMs & Reasoning: Opportunities & Pitfalls”, [LAVA Workshop](https://lava-workshop.github.io/), ACCV, Vietnam (Dec 2024, Virtual, Planned)
 - “LLMs & Reasoning: Opportunities & Pitfalls”, [Purdue AARC](https://polytechnic.purdue.edu/aarc), (Nov 2024) [LinkedIn](https://www.linkedin.com/posts/purdue-aarc_purdue-aarc-seminar-asim-munawar-ibm-watson-activity-7269400859191427072-bK0X?utm_source=share&utm_medium=member_desktop)
 - “Improving LLMs for Reasoning & Planning”, [Mississippi State University AI Club](https://www.cse.msstate.edu/studentorg/) (Oct 2024, Virtual)
