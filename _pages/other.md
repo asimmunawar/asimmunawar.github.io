@@ -41,9 +41,12 @@ title: "Selected Activities (2023 onwards)"
 
 ---
 
-# 🎤 Invited Talks (2023–Present)
+# 🎤 Selected Keynote and Invited Talks (2023–Present)
 
 ### 🔹 2025
+
+- “LLMs for Reasoning and role of Neuro-Symbolic AI”, [Northwestern University](https://www.linkedin.com/posts/vispi-karkaria_ai-llms-neurosymbolicai-activity-7336047394653880325-yPR7?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAWNR5cBtD7QW7kTPu9DxFB0ZlSkXym-EfQ), USA (June 2025)
+- “Reasoning Revolution”, University of Tokyo, Southeast Missouri State University (May 2025)
 - 🗝️ **Keynote** @ [ICSE 2025 - NSE](https://conf.researchr.org/home/icse-2025/nse-2025#program), Ottawa, Canada (May 2025)
 - 🗝️ **Keynote** @ [ACMSE 2025](https://acmse.net/2025/), Southeast Missouri State University (Apr 2025)
 
