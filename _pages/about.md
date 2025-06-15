@@ -47,9 +47,12 @@ redirect_from:
     <li>Automation & Deployment</li>
 </ul>
 
-<h2>News</h2>
+<h2>Recent News</h2>
 <ul>
-    <li>2024-09-27: Keynote titled “Foundation models for Robotics”, <a href="https://icra40.ieee.org/icra-2024/icra40-africa/">ICRA@40</a>, Johannesburg, South Africa, Sept 2024</li>
-    <li>2024-02-26: Organizing <a href="https://nuclear-workshop.github.io/">Neuro-Symbolic Learning and Reasoning in the Era of Large Language Models</a> workshop at AAAI 2024, Vancouver, Canada</li>
-    <li>2024-02-10: Launched my <a href="https://asimmunawar.github.io/talks/">talks on AI</a></li>
+    <li>2025-06: Invited talk on “LLMs for Reasoning and role of Neuro-Symbolic AI” at <a href="https://www.linkedin.com/posts/vispi-karkaria_ai-llms-neurosymbolicai-activity-7336047394653880325-yPR7?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAWNR5cBtD7QW7kTPu9DxFB0ZlSkXym-EfQ">Northwestern University</a>, USA</li>
+    <li>2025-05: Delivered “Reasoning Revolution” talks at University of Tokyo and Southeast Missouri State University</li>
+    <li>2025-05: Keynote at <a href="https://conf.researchr.org/home/icse-2025/nse-2025#program">ICSE 2025 - NSE</a>, Ottawa, Canada</li>
+    <li>2025-04: Keynote at <a href="https://acmse.net/2025/">ACMSE 2025</a>, Southeast Missouri State University</li>
+    <li>2024-09-27: Keynote titled “Foundation models for Robotics” at <a href="https://icra40.ieee.org/icra-2024/icra40-africa/">ICRA@40</a>, Johannesburg, South Africa</li>
+    <li>2024-02-10: Launched <a href="https://asimmunawar.github.io/talks/">AI talk archive</a></li>
 </ul>
