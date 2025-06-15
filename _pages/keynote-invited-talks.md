@@ -1,9 +1,7 @@
 ---
 permalink: /keynote-invited-talks/
-title: "Selected Activities (2023 onwards)"
+title: "Selected Keynote and Invited Talks (2023–Present)"
 ---
-
-# 🎤 Selected Keynote and Invited Talks (2023–Present)
 
 ### 🔹 2025
 
