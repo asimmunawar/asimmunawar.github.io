@@ -11,7 +11,7 @@ redirect_from:
 
 <p>I’ve served as Program Director for IBM’s Neuro-Symbolic AI program, overseeing 50+ researchers globally and founding strategic AI initiatives that continue to shape the field. My research has yielded 20+ US patents and 80+ peer-reviewed publications. I've delivered 50+ keynotes and invited talks at venues like IJCAI, ICSE, and Dallas AI, and been invited to speak at top global universities. A recognized thought leader with 14K+ LinkedIn followers, I remain committed to translating cutting-edge AI research into real-world impact.</p>
 
-<p>In addition to my work at IBM, I serve as Executive Advisory Board member at <a href="https://centaur.ai/">Centaur AI in USA</a>, Scientific & Industrial Advisory Board member at the <a href="https://ncai.pk/">National Center of Artificial Intelligence, Pakistan</a>.</p>
+<p>In addition to my work at IBM, I serve as Executive Advisory Board member at <a href="https://centaurinstitute.org/">Centaur AI in USA</a>, Scientific & Industrial Advisory Board member at the <a href="https://ncai.pk/">National Center of Artificial Intelligence, Pakistan</a>.</p>
 
 <p>My mission is to lead innovative, responsible AI efforts that drive measurable outcomes and support future-ready organizations. I welcome opportunities to collaborate with visionaries seeking to shape the next frontier of AI.</p>
 
