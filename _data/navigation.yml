@@ -15,5 +15,8 @@ main:
   - title: "Invited Talks"
     url: /keynote-invited-talks
 
+  - title: "Bio"
+    url: /bio
+
   - title: "More"
     url: /other/
