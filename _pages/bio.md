@@ -18,16 +18,16 @@ Feel free to use the following images for introductions or promotional materials
 <table>
   <tr>
     <td align="center">
-      <img src="https://asimmunawar.github.io/images/asim.jpg" alt="Photo 1" width="200"/><br/>
-      <a href="https://asimmunawar.github.io/images/asim.jpg" download>Download</a>
+      <img src="https://asimmunawar.github.io/images/bio-1.jpg" alt="Photo 1" width="200"/><br/>
+      <a href="https://asimmunawar.github.io/images/bio-1.jpg" download>Download</a>
     </td>
     <td align="center">
-      <img src="https://asimmunawar.github.io/images/asim.jpg" alt="Photo 2" width="200"/><br/>
-      <a href="https://asimmunawar.github.io/images/asim.jpg" download>Download</a>
+      <img src="https://asimmunawar.github.io/images/bio-2.jpg" alt="Photo 2" width="200"/><br/>
+      <a href="https://asimmunawar.github.io/images/bio-2.jpg" download>Download</a>
     </td>
     <td align="center">
-      <img src="https://asimmunawar.github.io/images/asim.jpg" alt="Photo 3" width="200"/><br/>
-      <a href="https://asimmunawar.github.io/images/asim.jpg" download>Download</a>
+      <img src="https://asimmunawar.github.io/images/bio-3.jpg" alt="Photo 3" width="200"/><br/>
+      <a href="https://asimmunawar.github.io/images/bio-3.jpg" download>Download</a>
     </td>
   </tr>
 </table>
