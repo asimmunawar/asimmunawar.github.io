@@ -6,7 +6,7 @@ title: "Selected Keynote and Invited Talks (2023–Present)"
 ### 🔹 2025
 
 - “LLMs for Reasoning and role of Neuro-Symbolic AI”, [Northwestern University](https://www.linkedin.com/posts/vispi-karkaria_ai-llms-neurosymbolicai-activity-7336047394653880325-yPR7?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAWNR5cBtD7QW7kTPu9DxFB0ZlSkXym-EfQ), USA (June 2025)
-- “Reasoning Revolution”, University of Tokyo (May 2025) [LinedIn Post](https://www.linkedin.com/posts/asimmunawar_%F0%9D%97%99%F0%9D%97%B2%F0%9D%97%B2%F0%9D%97%B1%F0%9D%97%AF%F0%9D%97%AE%F0%9D%97%B0%F0%9D%97%B8-%F0%9D%97%A7%F0%9D%97%B5%F0%9D%97%B2-%F0%9D%97%A0%F0%9D%97%BC%F0%9D%98%80%F0%9D%98%81-%F0%9D%97%A8%F0%9D%97%BB-activity-7355980794286284800-aUa7?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAWNR5cBtD7QW7kTPu9DxFB0ZlSkXym-EfQ)
+- “Reasoning Revolution”, University of Tokyo (May 2025) [LinkedIn Post](https://www.linkedin.com/posts/asimmunawar_%F0%9D%97%99%F0%9D%97%B2%F0%9D%97%B2%F0%9D%97%B1%F0%9D%97%AF%F0%9D%97%AE%F0%9D%97%B0%F0%9D%97%B8-%F0%9D%97%A7%F0%9D%97%B5%F0%9D%97%B2-%F0%9D%97%A0%F0%9D%97%BC%F0%9D%98%80%F0%9D%98%81-%F0%9D%97%A8%F0%9D%97%BB-activity-7355980794286284800-aUa7?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAWNR5cBtD7QW7kTPu9DxFB0ZlSkXym-EfQ)
 - 🗝️ **Keynote** @ [ICSE 2025 - NSE](https://conf.researchr.org/home/icse-2025/nse-2025#program), Ottawa, Canada (May 2025)
 - 🗝️ **Keynote** @ [ACMSE 2025](https://acmse.net/2025/), Southeast Missouri State University (Apr 2025)
 
