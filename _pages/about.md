@@ -50,7 +50,7 @@ redirect_from:
 <h2>Recent News</h2>
 <ul>
     <li>2025-06: Invited talk on “LLMs for Reasoning and role of Neuro-Symbolic AI” at <a href="https://www.linkedin.com/posts/vispi-karkaria_ai-llms-neurosymbolicai-activity-7336047394653880325-yPR7?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAWNR5cBtD7QW7kTPu9DxFB0ZlSkXym-EfQ">Northwestern University</a>, USA</li>
-    <li>2025-05: Delivered “Reasoning Revolution” talks at University of Tokyo and Southeast Missouri State University</li>
+    <li>2025-05: Delivered “Reasoning Revolution with LLMs” lecture at The University of Tokyo (<a href="https://www.linkedin.com/posts/asimmunawar_%F0%9D%97%99%F0%9D%97%B2%F0%9D%97%B2%F0%9D%97%B1%F0%9D%97%AF%F0%9D%97%AE%F0%9D%97%B0%F0%9D%97%B8-%F0%9D%97%A7%F0%9D%97%B5%F0%9D%97%B2-%F0%9D%97%A0%F0%9D%97%BC%F0%9D%98%80%F0%9D%98%81-%F0%9D%97%A8%F0%9D%97%BB-activity-7355980794286284800-aUa7?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAWNR5cBtD7QW7kTPu9DxFB0ZlSkXym-EfQ">LinkedIn Post</a>)</li>
     <li>2025-05: Keynote at <a href="https://conf.researchr.org/home/icse-2025/nse-2025#program">ICSE 2025 - NSE</a>, Ottawa, Canada</li>
     <li>2025-04: Keynote at <a href="https://acmse.net/2025/">ACMSE 2025</a>, Southeast Missouri State University</li>
     <li>2024-09-27: Keynote titled “Foundation models for Robotics” at <a href="https://icra40.ieee.org/icra-2024/icra40-africa/">ICRA@40</a>, Johannesburg, South Africa</li>
