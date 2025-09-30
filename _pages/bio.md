@@ -25,9 +25,15 @@ Feel free to use the following images for introductions or promotional materials
       <img src="https://asimmunawar.github.io/images/bio-2.png" alt="Photo 2" width="200"/><br/>
       <a href="https://asimmunawar.github.io/images/bio-2.png" download>Download</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <img src="https://asimmunawar.github.io/images/bio-3.png" alt="Photo 3" width="200"/><br/>
       <a href="https://asimmunawar.github.io/images/bio-3.png" download>Download</a>
+    </td>
+    <td align="center">
+      <img src="https://asimmunawar.github.io/images/bio-4.png" alt="Photo 4" width="200"/><br/>
+      <a href="https://asimmunawar.github.io/images/bio-4.png" download>Download</a>
     </td>
   </tr>
 </table>
