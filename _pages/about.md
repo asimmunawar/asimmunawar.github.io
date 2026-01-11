@@ -15,44 +15,26 @@ redirect_from:
 
 <p>My mission is to lead innovative, responsible AI efforts that drive measurable outcomes and support future-ready organizations. I welcome opportunities to collaborate with visionaries seeking to shape the next frontier of AI.</p>
 
-<h3>My Management Skills</h3>
+<h3>Management & Leadership</h3>
 <ul>
-    <li>Program & Project Management</li>
-    <li>AI Strategy & Roadmapping</li>
-    <li>R&D Leadership</li>
-    <li>Cross-functional Team Management</li>
-    <li>Talent Development & Mentoring</li>
-    <li>Executive Decision-Making</li>
-    <li>Client & Stakeholder Engagement</li>
-    <li>Thought Leadership</li>
-    <li>Keynote Speaking</li>
-    <li>Advisory & Board Memberships</li>
-    <li>Agile & Strategic Planning</li>
-    <li>Change Management</li>
-    <li>Diversity & Inclusion Leadership</li>
+  <li>AI Strategy, Vision & Roadmapping</li>
+  <li>Program & Portfolio Leadership</li>
+  <li>Cross-Functional Team Management (up to 50+ researchers)</li>
+  <li>Research-to-Production Execution</li>
+  <li>Hiring, Mentoring & Talent Development</li>
+  <li>Stakeholder & Executive Engagement</li>
+  <li>Advisory & Board Leadership</li>
+  <li>Keynote Speaking & Thought Leadership</li>
 </ul>
 
-<h3>My Technical Hands-on Skills</h3>
+<h3>Technical Expertise (Hands-on)</h3>
 <ul>
-    <li>AI/ML & Deep Learning</li>
-    <li>Responsible AI & Ethics</li>
-    <li>Large Language Models (LLMs)</li>
-    <li>Agentic Workflow & Reasoning</li>
-    <li>Advanced Synthetic Data Generation</li>
-    <li>LLM Evaluation & Benchmarking</li>
-    <li>API-Augmented LLMs</li>
-    <li>Neuro-symbolic AI</li>
-    <li>Natural Language Processing (NLP)</li>
-    <li>Computer Vision & Robotics</li>
-    <li>Automation & Deployment</li>
-</ul>
-
-<h2>Recent News</h2>
-<ul>
-    <li>2025-06: Invited talk on “LLMs for Reasoning and role of Neuro-Symbolic AI” at <a href="https://www.linkedin.com/posts/vispi-karkaria_ai-llms-neurosymbolicai-activity-7336047394653880325-yPR7?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAWNR5cBtD7QW7kTPu9DxFB0ZlSkXym-EfQ">Northwestern University</a>, USA</li>
-    <li>2025-05: Delivered “Reasoning Revolution with LLMs” lecture at The University of Tokyo (<a href="https://www.linkedin.com/posts/asimmunawar_%F0%9D%97%99%F0%9D%97%B2%F0%9D%97%B2%F0%9D%97%B1%F0%9D%97%AF%F0%9D%97%AE%F0%9D%97%B0%F0%9D%97%B8-%F0%9D%97%A7%F0%9D%97%B5%F0%9D%97%B2-%F0%9D%97%A0%F0%9D%97%BC%F0%9D%98%80%F0%9D%98%81-%F0%9D%97%A8%F0%9D%97%BB-activity-7355980794286284800-aUa7?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAWNR5cBtD7QW7kTPu9DxFB0ZlSkXym-EfQ">LinkedIn Post</a>)</li>
-    <li>2025-05: Keynote at <a href="https://conf.researchr.org/home/icse-2025/nse-2025#program">ICSE 2025 - NSE</a>, Ottawa, Canada</li>
-    <li>2025-04: Keynote at <a href="https://acmse.net/2025/">ACMSE 2025</a>, Southeast Missouri State University</li>
-    <li>2024-09-27: Keynote titled “Foundation models for Robotics” at <a href="https://icra40.ieee.org/icra-2024/icra40-africa/">ICRA@40</a>, Johannesburg, South Africa</li>
-    <li>2024-02-10: Launched <a href="https://asimmunawar.github.io/talks/">AI talk archive</a></li>
+  <li>Large Language Models (LLMs)</li>
+  <li>Multi-step Reasoning, Planning & Agentic Systems</li>
+  <li>Tool-augmented & API-driven LLMs</li>
+  <li>Synthetic Data Generation & RL-based Optimization</li>
+  <li>LLM Evaluation, Benchmarking & Robustness</li>
+  <li>Neuro-Symbolic AI</li>
+  <li>Distributed & GPU-Accelerated AI Systems</li>
+  <li>NLP, Computer Vision & Robotics</li>
 </ul>
