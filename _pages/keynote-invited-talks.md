@@ -18,7 +18,7 @@ Singapore · January 2026
 ### 2025
 
 [“LRM - Large Reasoning Models”](https://www.linkedin.com/feed/update/urn:li:activity:7401657480189308928)  
-Centaur AI Institute - Centaur Wednesday Seminar 
+Centaur AI Institute - Centaur Wednesday Seminar  
 December 2025
 
 [“Cyber Security Implications of Agentic AI”](https://www.umflint.edu/cit/cybersecurity-horizons-symposium/)  
