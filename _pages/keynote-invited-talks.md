@@ -5,11 +5,11 @@ title: "Selected Keynote and Invited Talks (2023–Present)"
 
 ### 2026
 
-**[“Small Language Models for Enterprise Agentic Workflows”](https://sites.google.com/view/aaba4et)**  
+[“Small Language Models for Enterprise Agentic Workflows”](https://sites.google.com/view/aaba4et)
 AAAI 2026 — *Agentic AI Benchmarks and Applications for Enterprise Tasks*  
 Singapore · January 2026
 
-**[“Reasoning and Planning in Agentic AI”](https://plan-fm.github.io/2026/)**  
+[“Reasoning and Planning in Agentic AI”](https://plan-fm.github.io/2026/)
 AAAI 2026 — *PLAN-FM: Bridging Planning and Reasoning in Natural Language with Foundational Models*  
 Singapore · January 2026
 
