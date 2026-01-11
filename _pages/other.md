@@ -3,6 +3,17 @@ permalink: /other/
 title: "Selected Activities (2023–Present)"
 ---
 
+## Open Educational & Community Initiatives
+
+Alongside formal workshops and academic events, I maintain open, long-running initiatives to document and share invited talks, lectures, and educational material on modern AI systems. These efforts emphasize clarity, accessibility, and reusable learning resources for researchers, practitioners, and students.
+
+| Initiative | Focus | Description |
+|-----------|------|-------------|
+| [AI Talks](https://github.com/asimmunawar/ai-talks) | Talks & Presentations | A curated collection of talks on recent advances in AI, LLMs, reasoning, and agentic systems, including recorded videos and fully editable presentation slides. |
+| [Python Programming for Kids](https://github.com/asimmunawar/ai-talks/tree/main/docs/summercamp/2025/python-programming-for-kids) | Education & Outreach | A beginner-friendly summer camp series introducing foundational programming concepts through interactive lessons and hands-on activities for school-age students. |
+| [AI Decoded](https://github.com/AIxorDie/ai-decoded) | Open AI Education | An open educational initiative focused on demystifying AI, LLMs, and agentic systems through structured explanations, examples, and practical resources. |
+
+
 ## Organized Workshops & Schools
 
 ### 2025
