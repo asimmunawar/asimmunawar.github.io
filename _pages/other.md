@@ -5,6 +5,13 @@ title: "Selected Activities (2022–Present)"
 
 ## Organized Workshops & Schools
 
+### 2025
+
+**Neuro-Symbolic AI Summer School 2024**  
+*Virtual · August 2025*  
+- Event website: https://www.centaurinstitute.org/education
+
+
 ### 2024
 
 **Neuro-Symbolic AI Summer School 2024**  
