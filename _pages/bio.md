@@ -18,8 +18,8 @@ Feel free to use the following images for introductions or promotional materials
 <table>
   <tr>
     <td align="center">
-      <img src="https://asimmunawar.github.io/images/bio-1.jpg" alt="Photo 1" width="200"/><br/>
-      <a href="https://asimmunawar.github.io/images/bio-1.jpg" download>Download</a>
+      <img src="https://asimmunawar.github.io/images/bio-1.png" alt="Photo 1" width="200"/><br/>
+      <a href="https://asimmunawar.github.io/images/bio-1.png" download>Download</a>
     </td>
     <td align="center">
       <img src="https://asimmunawar.github.io/images/bio-2.png" alt="Photo 2" width="200"/><br/>
@@ -38,8 +38,8 @@ Feel free to use the following images for introductions or promotional materials
   </tr>
   <tr>
     <td align="center">
-      <img src="https://asimmunawar.github.io/images/bio-5.png" alt="Photo 5" width="200"/><br/>
-      <a href="https://asimmunawar.github.io/images/bio-5.png" download>Download</a>
+      <img src="https://asimmunawar.github.io/images/bio-5.jpg" alt="Photo 5" width="200"/><br/>
+      <a href="https://asimmunawar.github.io/images/bio-5.jpg" download>Download</a>
     </td>
     <td></td>
   </tr>
