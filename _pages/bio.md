@@ -36,11 +36,4 @@ Feel free to use the following images for introductions or promotional materials
       <a href="https://asimmunawar.github.io/images/bio-4.png" download>Download</a>
     </td>
   </tr>
-  <tr>
-    <td align="center">
-      <img src="https://asimmunawar.github.io/images/bio-5.jpg" alt="Photo 5" width="200"/><br/>
-      <a href="https://asimmunawar.github.io/images/bio-5.jpg" download>Download</a>
-    </td>
-    <td></td>
-  </tr>
 </table>
