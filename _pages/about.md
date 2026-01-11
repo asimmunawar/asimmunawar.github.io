@@ -7,13 +7,29 @@ redirect_from:
   - /about.html
 ---
 
-<p>As an AI leader with 15+ years of experience, I have consistently driven innovation across global R&D and enterprise initiatives. At IBM Research, I progressed from researcher to senior leadership roles, managing cross-functional teams and steering high-impact programs. Currently based at the <a href="http://www.ibm.com/">IBM TJ Watson Research Center, New York</a>, I lead efforts to enhance reasoning, planning, and agentic workflows in enterprise-grade large language models. My work directly powers the <a href="https://www.ibm.com/granite">Granite series</a> and next-gen capabilities within <a href="https://watsonx.ai/">WatsonX</a>.</p>
+<p>
+I am a senior AI research and engineering leader with 15+ years of experience designing, scaling, and deploying large-scale AI systems across applied research and enterprise production. Over the course of my career at IBM Research, I progressed from researcher to senior technical and program leadership roles, leading high-impact initiatives at the intersection of large language models, reasoning, planning, and agentic systems.
+</p>
 
-<p>I’ve served as Program Director for IBM’s Neuro-Symbolic AI program, overseeing 50+ researchers globally and founding strategic AI initiatives that continue to shape the field. My research has yielded 20+ US patents and 80+ peer-reviewed publications. I've delivered 50+ keynotes and invited talks at venues like IJCAI, ICSE, and Dallas AI, and been invited to speak at top global universities. A recognized thought leader with 14K+ LinkedIn followers, I remain committed to translating cutting-edge AI research into real-world impact.</p>
+<p>
+I am currently based at the <a href="https://www.ibm.com/ibm/research/locations">IBM Thomas J. Watson Research Center, New York</a>, where I serve as Technical Lead for LLM Reasoning & Agentic Systems. My work focuses on building production-grade, multi-step reasoning and tool-augmented LLM workflows, directly powering the <a href="https://www.ibm.com/granite">Granite</a> model family and next-generation capabilities within <a href="https://www.ibm.com/watsonx">watsonx</a>. These systems have delivered measurable improvements in reasoning accuracy, task success, and enterprise adoption.
+</p>
 
-<p>In addition to my work at IBM, I serve as Executive Advisory Board member at <a href="https://centaurinstitute.org/">Centaur AI in USA</a>, Scientific & Industrial Advisory Board member at the <a href="https://ncai.pk/">National Center of Artificial Intelligence, Pakistan</a>.</p>
+<p>
+Previously, I served as Program Director for IBM’s Neuro-Symbolic AI program, leading a global research effort spanning 50+ researchers across multiple continents. In this role, I defined long-term technical strategy for hybrid neural-symbolic reasoning, reinforcement learning, and decision-making systems, while building and scaling a global research community of over 6,000 members.
+</p>
 
-<p>My mission is to lead innovative, responsible AI efforts that drive measurable outcomes and support future-ready organizations. I welcome opportunities to collaborate with visionaries seeking to shape the next frontier of AI.</p>
+<p>
+My research output includes 20+ U.S. patents and 80+ peer-reviewed publications, with multiple best paper awards. I am a frequent keynote and invited speaker at international conferences and industry venues, and have delivered 50+ talks worldwide. I also serve as Jack W. Thompson, M.D. Distinguished Visiting Professor at the University of Michigan–Flint, where I teach and advise on AI systems, cybersecurity, and industry collaboration.
+</p>
+
+<p>
+Beyond IBM, I serve on advisory and executive boards, including Executive Board Member at <a href="https://centaurinstitute.org/">Centaur AI</a> (USA) and Scientific & Industrial Advisory Board Member at the <a href="https://ncai.pk/">National Center of Artificial Intelligence (NCAI), Pakistan</a>, advising on responsible, large-scale AI strategy and deployment.
+</p>
+
+<p>
+My mission is to lead and build AI systems that combine rigorous research with real-world impact—advancing trustworthy, scalable, and future-ready AI for organizations operating at global scale. I welcome collaboration with researchers, industry leaders, and institutions shaping the next frontier of AI.
+</p>
 
 <h3>Management & Leadership</h3>
 <ul>
