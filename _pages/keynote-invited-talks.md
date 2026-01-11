@@ -17,11 +17,17 @@ Singapore · January 2026
 
 ### 2025
 
+[“LRM - Large Reasoning Models”](https://www.linkedin.com/feed/update/urn:li:activity:7401657480189308928)  
+Centaur AI Institute - Centaur Wednesday Seminar 
+December 2025
+
 [“Cyber Security Implications of Agentic AI”](https://www.umflint.edu/cit/cybersecurity-horizons-symposium/)  
-2nd Cybersecurity Symposium, University of Michigan–Flint
+2nd Cybersecurity Symposium, University of Michigan–Flint  
+Flint, Michigan · October 2025
 
 [“LLMs for Reasoning and the Role of Neuro-Symbolic AI”](https://www.linkedin.com/posts/vispi-karkaria_ai-llms-neurosymbolicai-activity-7336047394653880325-yPR7)    
-Northwestern University, USA · June 2025
+Northwestern University
+USA · June 2025
 
 [“Reasoning Revolution”](https://www.linkedin.com/posts/asimmunawar_%F0%9D%97%99%F0%9D%97%B2%F0%9D%97%B2%F0%9D%97%B1%F0%9D%97%AF%F0%9D%97%AE%F0%9D%97%B0%F0%9D%97%B8-%F0%9D%97%A7%F0%9D%97%B5%F0%9D%97%B2-%F0%9D%97%A0%F0%9D%97%BC%F0%9D%98%80%F0%9D%98%81-%F0%9D%97%A8%F0%9D%97%BB-activity-7355980794286284800-aUa7)  
 University of Tokyo · May 2025
