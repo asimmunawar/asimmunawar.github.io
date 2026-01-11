@@ -8,27 +8,27 @@ redirect_from:
 ---
 
 <p>
-I am a <strong>senior AI research and engineering leader</strong> with <strong>15+ years of experience</strong> designing, scaling, and deploying <strong>large-scale AI systems</strong> across applied research and enterprise production. At <strong>IBM Research</strong>, I progressed from researcher to senior technical and program leadership roles, leading high-impact initiatives at the intersection of <strong>large language models, reasoning, planning, and agentic systems</strong>.
+I am a <strong>senior AI research and engineering leader</strong> with 15+ years of experience designing, scaling, and deploying large-scale AI systems across applied research and enterprise production. At IBM Research, I progressed from researcher to senior technical and program leadership roles, leading high-impact initiatives at the intersection of large language models, reasoning, planning, and agentic systems.
 </p>
 
 <p>
-I am currently based at the <a href="https://www.ibm.com/ibm/research/locations"><strong>IBM Thomas J. Watson Research Center, New York</strong></a>, where I serve as <strong>Technical Lead for LLM Reasoning & Agentic Systems</strong>. My work focuses on <strong>production-grade, multi-step reasoning and tool-augmented LLM workflows</strong>, directly powering the <a href="https://www.ibm.com/granite"><strong>Granite</strong></a> model family and next-generation capabilities within <a href="https://www.ibm.com/watsonx"><strong>watsonx</strong></a>, delivering measurable gains in reasoning accuracy, task success, and enterprise adoption.
+I am currently based at the <a href="https://www.ibm.com/ibm/research/locations">IBM Thomas J. Watson Research Center, New York</a>, where I serve as <strong>Technical Lead for LLM Reasoning & Agentic Systems</strong>. My work focuses on production-grade, multi-step reasoning and tool-augmented LLM workflows, directly powering the <a href="https://www.ibm.com/granite">Granite</a> model family and next-generation capabilities within <a href="https://www.ibm.com/watsonx">watsonx</a>, delivering measurable gains in reasoning accuracy, task success, and enterprise adoption.
 </p>
 
 <p>
-Previously, I served as <strong>Program Director for IBM’s Neuro-Symbolic AI program</strong>, leading a global research effort spanning <strong>50+ researchers</strong> across multiple continents. I defined long-term technical strategy for <strong>hybrid neural-symbolic reasoning, reinforcement learning, and decision-making systems</strong>, while building and scaling a research community of <strong>6,000+ members</strong>.
+Previously, I served as <strong>Program Director for IBM’s Neuro-Symbolic AI program</strong>, leading a global research effort spanning <strong>50+ researchers</strong> across multiple continents. In this role, I defined long-term technical strategy for hybrid neural-symbolic reasoning, reinforcement learning, and decision-making systems, while building and scaling a global research community of over 6,000 members.
 </p>
 
 <p>
-My research output includes <strong>20+ U.S. patents</strong> and <strong>80+ peer-reviewed publications</strong>, with multiple best paper awards. I am a <strong>frequent keynote and invited speaker</strong> at international conferences and industry venues, having delivered <strong>50+ talks worldwide</strong>. I also serve as <strong>Jack W. Thompson, M.D. Distinguished Visiting Professor</strong> at the <strong>University of Michigan–Flint</strong>.
+My research output includes <strong>20+ U.S. patents</strong> and <strong>80+ peer-reviewed publications</strong>, with multiple best paper awards. I am a frequent keynote and invited speaker at international conferences and industry venues, and have delivered 50+ talks worldwide. I also serve as <strong>Jack W. Thompson, M.D. Distinguished Visiting Professor</strong> at the University of Michigan–Flint.
 </p>
 
 <p>
-Beyond IBM, I serve in advisory leadership roles, including <strong>Executive Board Member</strong> at <a href="https://centaurinstitute.org/">Centaur AI</a> (USA) and <strong>Scientific & Industrial Advisory Board Member</strong> at the <a href="https://ncai.pk/">National Center of Artificial Intelligence (NCAI), Pakistan</a>, advising on <strong>responsible, large-scale AI strategy and deployment</strong>.
+Beyond IBM, I serve on advisory and executive boards, including Executive Board Member at <a href="https://centaurinstitute.org/">Centaur AI</a> (USA) and Scientific & Industrial Advisory Board Member at the <a href="https://ncai.pk/">National Center of Artificial Intelligence (NCAI), Pakistan</a>.
 </p>
 
 <p>
-My mission is to <strong>build trustworthy, scalable, and future-ready AI systems</strong> that translate rigorous research into real-world impact. I welcome collaboration with researchers, industry leaders, and institutions shaping the <strong>next frontier of AI</strong>.
+My mission is to build trustworthy, scalable, and future-ready AI systems that translate rigorous research into real-world impact. I welcome collaboration with researchers, industry leaders, and institutions shaping the next frontier of AI.
 </p>
 
 
